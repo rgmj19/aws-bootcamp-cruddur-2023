@@ -1,6 +1,8 @@
 # Homework
 
 - I was able to destroy root account credential, set. up MFA, activate securities , policies, and  IAM user roles and delete account
+
+### Installed AWS CLI
 - i was able to install AWS CLI in local environment but not to Github or Gitpod due to browser issues.
 - i did the following steps to install the CLI on Mac environment
 ```
@@ -14,6 +16,7 @@ $ which aws
 $ aws --version
 aws-cli/2.10.0 Python/3.11.2 Darwin/18.7.0 botocore/2.4.5
 ```
+### Recreate architectural diagram
 - able to create my directory in Github without any issue
 - able to recreate my architectural diagram in Lucid Charts
 - able to add security services to my architectural diagram
