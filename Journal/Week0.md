@@ -4,8 +4,11 @@
 - i was able to install AWS CLI in local environment but not to Github or Gitpod due to browser issues.
 - i did the following steps to install the CLI on Mac environment
 ```
- /usr/local/aws-cli
- And to verify that the shell can find and rub the aws command on my path
+/usr/local/aws-cli
+```
+And to verify that the shell can find and rub the aws command in my path
+
+```
 $ which aws
 /usr/local/bin/aws 
 $ aws --version
