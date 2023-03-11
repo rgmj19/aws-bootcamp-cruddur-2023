@@ -20,7 +20,7 @@ aws-cli/2.10.0 Python/3.11.2 Darwin/18.7.0 botocore/2.4.5
 - able to create my directory in Github without any issue
 - able to recreate my architectural diagram in Lucid Charts
 - able to add security services to my architectural diagram
-- Clicking [this link](https://lucid.app/lucidchart/a3138206-495c-49c8-9b82-0caadeec2dbe/edit?viewport_loc=-293%2C189%2C2165%2C1124%2C0_0&invitationId=inv_cc2be125-d7b8-4edc-a520-f29d213785c6)  to see Lucid Charts diagram 
+- Clicking [this link](Journal/assets/aws-cruddur-bootcamp-2023-diagram.pdf)  to see Lucid Charts diagram 
 
 ### Creaste a billing alarm
 - Clicking [this link](https://github.com/rgmj19/aws-bootcamp-cruddur-2023/blob/7da3eefe078a382909ae0c0860a04513a2b6a4d1/Journal/assets/week0_budget.png) to see billing alarm
